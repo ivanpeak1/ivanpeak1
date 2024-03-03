@@ -1,7 +1,10 @@
- Portfolio
+
 
 <h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Ivan</a> 
-<img src="https://avatanplus.com/files/resources/mid/59678aee7294f15d3c76b385.png" height="32"/></h1>
+<img src="https://media1.tenor.com/m/FatatgEM2FYAAAAC/crying-pepe.gif" height="48"/></h1>
+
+
+
 ## About Me
 - Name: Ivan
 - Programming Languages: Python and C
@@ -9,7 +12,7 @@
 - Fun Fact: A beginner in the world of programming 👨‍💻
 
 Let's embark on this coding journey together! 🚀
-Feel free to check out my projects and contributions below 👇
 
 Happy coding! 💻🔥
-print("Hello, World!")
+
+![](https://komarev.com/ghpvc/?username=ivanpeak1)
