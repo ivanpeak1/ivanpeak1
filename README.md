@@ -1,16 +1,16 @@
-### Hi there 👋
+ Portfolio
 
-<!--
-**ivanpeak1/ivanpeak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Goals
+To explore the boundaries of reality 🌌
 
-Here are some ideas to get you started:
+## About Me
+- Name: Ivan
+- Programming Languages: Python and C
+- Pronouns : She/her
+- Fun Fact: A beginner in the world of programming 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's embark on this coding journey together! 🚀
+Feel free to check out my projects and contributions below 👇
+
+Happy coding! 💻🔥
+print("Hello, World!")
