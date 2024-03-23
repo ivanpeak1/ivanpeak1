@@ -8,7 +8,7 @@
 ## About Me
 - Name: Ivan
 - Programming Languages: Python and C
-- Pronouns : She/her
+- Pronouns : He/him
 - Fun Fact: A beginner in the world of programming 👨‍💻
 
 Let's embark on this coding journey together! 🚀
